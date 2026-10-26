@@ -19,8 +19,6 @@ This app uses the Google Books api to search for books. It allows the user to sa
 
 GitHub: [edgarpena74](https://github.com/edgarpena74)
 
-Email: edgarpena0740@gmail.com
-
 ## License
 
 ISC
